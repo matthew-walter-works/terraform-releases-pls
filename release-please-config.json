@@ -1,6 +1,13 @@
 {
     "packages": {
-        "modules/project": {},
-        "modules/simple_network": {}
+        ".": {
+            "release-type": "simple"
+        },
+        "modules/project": {
+            "release-type": "terraform-module"
+        },
+        "modules/simple_network": {
+            "release-type": "terraform-module"
+        }
     }
 }
