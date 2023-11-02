@@ -1,6 +1,6 @@
 # Changelog
 
-## [0.5.0](https://github.com/matthew-walter-works/terraform-releases-pls/compare/v0.4.0...v0.5.0) (2023-11-02)
+## [0.5.0](https://github.com/matthew-walter-works/terraform-releases-pls/compare/simple_network-v0.4.0...simple_network-v0.5.0) (2023-11-02)
 
 
 ### Features
