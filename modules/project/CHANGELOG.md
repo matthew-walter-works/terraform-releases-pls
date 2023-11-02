@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.1](https://github.com/matthew-walter-works/terraform-releases-pls/compare/v1.0.0...v1.0.1) (2023-11-02)
+
+
+### Bug Fixes
+
+* Merge pull request [#2](https://github.com/matthew-walter-works/terraform-releases-pls/issues/2) from matthew-walter-works/test-branch-2 ([075434a](https://github.com/matthew-walter-works/terraform-releases-pls/commit/075434af6979fdabedbad43bc0423d77af4268e3))
+* test release ([075434a](https://github.com/matthew-walter-works/terraform-releases-pls/commit/075434af6979fdabedbad43bc0423d77af4268e3))
+* test release ([900463d](https://github.com/matthew-walter-works/terraform-releases-pls/commit/900463db0b1ed4ff7882e2fe9a98f1e72c835b84))
+
 ## [1.3.0](https://github.com/matthew-walter-works/terraform-releases-pls/compare/project-v1.2.0...project-v1.3.0) (2023-11-01)
 
 
